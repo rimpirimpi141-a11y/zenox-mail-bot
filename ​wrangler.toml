@@ -1,14 +1,12 @@
-name = "zenox-gmail-bot"
+name = "zenox-mail-bot2"
 main = "worker.js"
-compatibility_date = "2025-02-01"
-workers_dev = true
+compatibility_date = "2026-11-03"
 
 [[kv_namespaces]]
 binding = "DB"
 id = "6c0887279ba94d15ab351985d495ad41"
 
 [vars]
-BOT_TOKEN = "9163966381:AAG5PDtOmSN_we116QgDF8fX_8JhLu6QTxM"
 OWNER_ID = "8838351233"
 SUPPORT_USERNAME = "@ZenoxWorker"
 FORCE_CHANNEL = "https://t.me/+ukH5GufIKTthNzA9"
