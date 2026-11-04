@@ -2,9 +2,6 @@ name = "zenox-mail-bot2"
 main = "worker.js"
 compatibility_date = "2026-11-03"
 
-[assets]
-directory = "."
-
 [[kv_namespaces]]
 binding = "DB"
 id = "6c0887279ba94d15ab351985d495ad41"
